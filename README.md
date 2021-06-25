@@ -15,22 +15,19 @@
 I am a Frontend Javascript developer with experience in React JS. I am looking to collaborate as a web developer in teams passionate about creating digital products built with React
 </p>
    
-<h3 align "left">
-      Skills:
-</h3>
-<div align "left">
+
+
+  
+<h3 align="left">Some Stats</h3>
+
+  ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=stivenjimenez&theme=radical)
+  ![Github Stats](https://github-readme-stats.vercel.app/api?username=stivenjimenez&theme=radical)
+ 
+ **Skills:**
+
+
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
-</div>
-  
-  
-<h3 align="left">Some Stats</h3>
-
-
-  ![Github Stats](https://github-readme-stats.vercel.app/api?username=stivenjimenez&theme=radical)
-  ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=stivenjimenez&theme=radical)
- 
-
 
