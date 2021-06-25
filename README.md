@@ -1,16 +1,29 @@
-### Hi there 👋
+<div align="center">
+   <h1>Hi there, I'm <a href="https://twitter.com/stivenjimenezq">Stiven Jimenez</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h1>
 
-<!--
-**stivenjimenez/stivenjimenez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  
+  
+  
+  
+<p align='center'>
+   <a href="https://www.linkedin.com/in/stivenjimenez/"><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/linkedin.png?raw=true"></a>&nbsp;&nbsp;
+<a href="https://twitter.com/stivenjimenezq"><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/twitter.png?raw=true"></a>&nbsp;&nbsp;
+ </p>
+  
+  
+<div align="center">
+<h3> 🧑🏽‍ Stiven Jimenez | 💻 Frontend developer React & React-Native |🇨🇴 Colombian</h3>
+</div>
 
-Here are some ideas to get you started:
+<p align="left">
+I am a Frontend Javascript developer with experience in React JS. I am looking to collaborate as a web developer in teams passionate about creating digital products built with React
+</p>
+  
+<h3 align="left">Some Stats</h3>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+  ![Github Stats](https://github-readme-stats.vercel.app/api?username=stivenjimenez&theme=radical)
+  ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=stivenjimenez&theme=radical)
+ 
+
+
