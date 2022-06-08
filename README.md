@@ -17,12 +17,7 @@ I am a Frontend Javascript developer with experience in React JS. I am looking t
    
 
 
-  
-<h3 align="left">Some Stats</h3>
 
-  ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=stivenjimenez&theme=radical)
-  ![Github Stats](https://github-readme-stats.vercel.app/api?username=stivenjimenez&theme=radical)
- 
  **Skills:**
 
 
