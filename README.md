@@ -3,7 +3,6 @@
 
 ![Blue Futurustic Technology Linkedin Banner](https://github.com/stivenjimenez/stivenjimenez/assets/58489695/74f62816-3811-467b-b8bc-7308f5bc6307)
 
-👋 ¡Hola! Soy Stiven Jimenez, un Desarrollador Frontend con más de 3 años de experiencia.
 
 📫 Puedes contactarme a través de mi correo electrónico: stivenjimenez.dev@gmail.com
 
