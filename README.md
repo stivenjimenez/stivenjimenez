@@ -2,7 +2,6 @@
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%"> 
 
 
-![1691493314841](https://github.com/stivenjimenez/stivenjimenez/assets/58489695/99306179-9d68-40e8-b7d4-963fe8eea3d0)
 
 
 📫 Puedes contactarme a través de mi correo electrónico: stivenjimenez.dev@gmail.com
